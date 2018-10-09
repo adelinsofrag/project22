@@ -1,0 +1,9 @@
+@import '../bootstrap/css/bootstrap.css';
+
+.dark { 
+    background-color: #141414; 
+}
+
+.rounded {
+    border-radius: 2.22rem !important;
+}
