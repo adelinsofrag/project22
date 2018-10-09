@@ -5,9 +5,9 @@ import './App.css';
 class App extends Component {
 
   componentDidMount() {
-    console.log('Component did mounted!')
+    console.log('\nComponent did mounted!\n\n')
 
-    
+
   }
 
   render() {
